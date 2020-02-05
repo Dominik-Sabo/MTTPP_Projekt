@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-05T18:32:53 CET" name="AllTestsSuite" finished-at="2020-02-05T18:36:00 CET" duration-ms="186250">
+    <groups>
+    </groups>
+    <test started-at="2020-02-05T18:32:53 CET" name="My First Selenium TestNG Test" finished-at="2020-02-05T18:36:00 CET" duration-ms="186250">
+      <class name="testingGospodarPrstenova">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:32:53 CET" name="setUp" finished-at="2020-02-05T18:33:07 CET" duration-ms="13593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1_SignInWrongPassword()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:33:07 CET" name="test1_SignInWrongPassword" finished-at="2020-02-05T18:33:16 CET" duration-ms="8696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_SignInWrongPassword -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:33:16 CET" name="setUp" finished-at="2020-02-05T18:33:27 CET" duration-ms="11574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2_SignIn()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:33:27 CET" name="test2_SignIn" finished-at="2020-02-05T18:33:36 CET" duration-ms="8387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_SignIn -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:33:36 CET" name="setUp" finished-at="2020-02-05T18:33:50 CET" duration-ms="13979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test3_SignOut()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:33:50 CET" name="test3_SignOut" finished-at="2020-02-05T18:34:04 CET" duration-ms="14473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_SignOut -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:34:04 CET" name="setUp" finished-at="2020-02-05T18:34:16 CET" duration-ms="11747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test4_AddToCart()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:34:16 CET" name="test4_AddToCart" finished-at="2020-02-05T18:34:53 CET" duration-ms="37390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4_AddToCart -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:34:53 CET" name="setUp" finished-at="2020-02-05T18:35:06 CET" duration-ms="13061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test5_RemoveFromCart()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:35:06 CET" name="test5_RemoveFromCart" finished-at="2020-02-05T18:35:31 CET" duration-ms="24888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5_RemoveFromCart -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:35:31 CET" name="setUp" finished-at="2020-02-05T18:35:43 CET" duration-ms="11753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test6_Checkout()[pri:0, instance:testingGospodarPrstenova@52e677af]" started-at="2020-02-05T18:35:43 CET" name="test6_Checkout" finished-at="2020-02-05T18:36:00 CET" duration-ms="16661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6_Checkout -->
+      </class> <!-- testingGospodarPrstenova -->
+    </test> <!-- My First Selenium TestNG Test -->
+  </suite> <!-- AllTestsSuite -->
+</testng-results>

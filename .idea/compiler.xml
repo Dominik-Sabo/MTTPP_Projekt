@@ -9,5 +9,6 @@
         <module name="MTTPP_Projekt" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="9" />
   </component>
 </project>
