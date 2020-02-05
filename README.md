@@ -104,7 +104,7 @@ Now everything is set up. Write your tests in the java class and you can generat
 ## Installing and using Katalon
 
 You don't require Katalon, but it is quite helpful for writing tests in the Selenium suite.
-You can install it [here](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid).
+You can install it [here](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid) for Google Chrome or [here](https://addons.mozilla.org/hr/firefox/addon/katalon-automation-record/) for Mozilla Firefox.
 When you run it, you can record your actions on a webpage, and generate code for automatic tests for many programming environments.
 Recording with Katalon is very helpful, but most of the time, tests will require tweaking to run correctly.
 
