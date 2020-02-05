@@ -8,10 +8,11 @@ This project is made up of tests testing a merchandise shop. It was made for the
 the Methods and Techniques of Software Testing course at the Faculty of Electrical Engineering, Computer Science and Information Technology Osijek.
 This repository is used in educational purpuses only.
 
-It uses the following libraries:
+It uses the TestNG and Selenium libraries, as well as Katalon.
 
 * [TestNG](https://testng.org/doc/) - testing framework inspired by JUnit and NUnit
 * [Selenium](https://selenium.dev/) - free automated testing suite
+* [Katalon](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid) - free plugin for Google Chrome or Mozilla Firefox
 
 ## Setup
 ### 1. Installing IntelliJ
@@ -99,6 +100,13 @@ To add the surefire plugin, type this code in the pom.xml file outside of the de
 ![surefire plugin](images/surefire.png)
 
 Now everything is set up. Write your tests in the java class and you can generate reports based on them.
+
+## Installing and using Katalon
+
+You don't require Katalon, but it is quite helpful for writing tests in the Selenium suite.
+You can install it [here](https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid).
+When you run it, you can record your actions on a webpage, and generate code for automatic tests for many programming environments.
+Recording with Katalon is very helpful, but most of the time, tests will require tweaking to run correctly.
 
 ## Using the WebDriver Manager
 
