@@ -96,7 +96,7 @@ The testng file must contain the suite for the tests and its name, the name for 
 
 To add the surefire plugin, type this code in the pom.xml file outside of the dependencies tags.
 
-![surefire plugin](/images/surefire.png)
+![surefire plugin](images/surefire.png)
 
 Now everything is set up. Write your tests in the java class and you can generate reports based on them.
 
