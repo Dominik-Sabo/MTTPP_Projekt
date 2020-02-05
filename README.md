@@ -8,7 +8,7 @@ This project is made up of tests testing a merchandise shop. It was made for the
 the Methods and Techniques of Software Testing course at the Faculty of Electrical Engineering, Computer Science and Information Technology Osijek.
 This repository is used in educational purpuses only.
 
-It uses the next libraries:
+It uses the following libraries:
 
 * [TestNG](https://testng.org/doc/) - testing framework inspired by JUnit and NUnit
 * [Selenium](https://selenium.dev/) - free automated testing suite
